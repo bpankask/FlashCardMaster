@@ -1,0 +1,15 @@
+C:\Users\Brayden Pankaskie\Desktop\FlashCardMaster\FlashCardMaster\bin\Debug\FlashCardMaster.exe.config
+C:\Users\Brayden Pankaskie\Desktop\FlashCardMaster\FlashCardMaster\bin\Debug\FlashCardMaster.exe
+C:\Users\Brayden Pankaskie\Desktop\FlashCardMaster\FlashCardMaster\bin\Debug\FlashCardMaster.pdb
+C:\Users\Brayden Pankaskie\Desktop\FlashCardMaster\FlashCardMaster\obj\Debug\FlashCardMaster.csprojAssemblyReference.cache
+C:\Users\Brayden Pankaskie\Desktop\FlashCardMaster\FlashCardMaster\obj\Debug\MainWindow.g.cs
+C:\Users\Brayden Pankaskie\Desktop\FlashCardMaster\FlashCardMaster\obj\Debug\App.g.cs
+C:\Users\Brayden Pankaskie\Desktop\FlashCardMaster\FlashCardMaster\obj\Debug\FlashCardMaster_MarkupCompile.cache
+C:\Users\Brayden Pankaskie\Desktop\FlashCardMaster\FlashCardMaster\obj\Debug\FlashCardMaster_MarkupCompile.lref
+C:\Users\Brayden Pankaskie\Desktop\FlashCardMaster\FlashCardMaster\obj\Debug\MainWindow.baml
+C:\Users\Brayden Pankaskie\Desktop\FlashCardMaster\FlashCardMaster\obj\Debug\FlashCardMaster.g.resources
+C:\Users\Brayden Pankaskie\Desktop\FlashCardMaster\FlashCardMaster\obj\Debug\FlashCardMaster.Properties.Resources.resources
+C:\Users\Brayden Pankaskie\Desktop\FlashCardMaster\FlashCardMaster\obj\Debug\FlashCardMaster.csproj.GenerateResource.cache
+C:\Users\Brayden Pankaskie\Desktop\FlashCardMaster\FlashCardMaster\obj\Debug\FlashCardMaster.csproj.CoreCompileInputs.cache
+C:\Users\Brayden Pankaskie\Desktop\FlashCardMaster\FlashCardMaster\obj\Debug\FlashCardMaster.exe
+C:\Users\Brayden Pankaskie\Desktop\FlashCardMaster\FlashCardMaster\obj\Debug\FlashCardMaster.pdb

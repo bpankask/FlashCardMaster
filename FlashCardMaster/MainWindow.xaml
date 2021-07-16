@@ -1,0 +1,25 @@
+﻿<Window x:Class="FlashCardMaster.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FlashCardMaster"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <DockPanel>
+        <WrapPanel DockPanel.Dock="Top" HorizontalAlignment="Right">
+            <TextBlock Margin="0,10,30,5">Mark FlashCard:</TextBlock>
+            <Button Margin="0,10,30,5">Learning</Button>
+            <Button Margin="0,10,30,5">Learned</Button>
+            <Button Margin="0,10,30,5">Review</Button>
+        </WrapPanel>
+        <WrapPanel DockPanel.Dock="Bottom" HorizontalAlignment="Left">
+            <Button  Margin="0,10,30,5">Temp</Button>
+            <Button Margin="0,10,30,5">Temp</Button>
+            <Button Margin="0,10,30,5">Temp</Button>
+        </WrapPanel>
+        <Button DockPanel.Dock="Right">Next</Button>
+        <Button DockPanel.Dock="Left">Back</Button>
+        <TextBox BorderBrush="Black" Name="display" BorderThickness="10"/>
+    </DockPanel>
+</Window>
